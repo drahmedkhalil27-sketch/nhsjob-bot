@@ -2375,12 +2375,14 @@
 "P0017-26-0063",
 "C9319-26-1058",
 "C9319-26-1059",
-"C9319-26-1057"
+"C9319-26-1057",
+"P0017-26-0071",
+"P0017-26-0070"
 ],
 "empty_runs": 0,
 "empty_runs_by_source": {
 "england_wales": 0,
-"scotland": 78,
+"scotland": 79,
 "northern_ireland": 0
 }
 }
